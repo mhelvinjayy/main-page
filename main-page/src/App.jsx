@@ -18,7 +18,7 @@ const members = [
   },
 ];
 
-const invitationFile = "images/wedding-invitation.png";
+const invitationFile = "https://mhelvinjayy.github.io/wedding-invitation/";
 
 function App() {
   const openProfile = (link) => {
