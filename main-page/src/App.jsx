@@ -4,21 +4,21 @@ const members = [
   {
     name: "Mhelvin Jay Abiog",
     link: "https://mhelvinjayy.github.io/abiog-resumee/",
-    img: "/images/mhelvin.jpeg",
+    img: "images/mhelvin.jpeg",
   },
   {
     name: "Rosswin John Gallego",
     link: "https://your-username.github.io/your-repo/resume2.html",
-    img: "/images/ross.jpg",
+    img: "images/ross.jpg",
   },
   {
     name: "Louie Anthony Descalzo",
     link: "https://mladescalzo.github.io/resume/",
-    img: "/images/descalzo.jpg",
+    img: "images/descalzo.jpg",
   },
 ];
 
-const invitationFile = "/images/wedding-invitation.png";
+const invitationFile = "images/wedding-invitation.png";
 
 function App() {
   const openProfile = (link) => {
